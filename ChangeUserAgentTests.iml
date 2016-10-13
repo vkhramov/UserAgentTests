@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ChangeUserAgentTest/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ChangeUserAgentTest/src/main/Tests" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/Tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/Pages" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/ChangeUserAgentTest/target" />
     </content>
     <orderEntry type="inheritedJdk" />
